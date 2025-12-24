@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hallo, Ich heiße Filipe
 
-<!--
-**fip-soc/fip-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Willkommen auf meiner Cybersecurity‑Seite
 
-Here are some ideas to get you started:
+Ich bin ein brasilianischer Sysadmin mit Hands‑on‑Mentalität und einer großen Leidenschaft für IT‑Sicherheit. 
+Von Küchenhilfe im Restaurant bis in die IT – und jetzt verfolge ich mein nächstes Ziel: SOC Engineer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Grüße
+
+## Objective
+
+Nach meinem erfolgreichen Abschluss der (ISC)² Certified in Cybersecurity (CC) arbeite ich aktiv daran, meine Kenntnisse im Bereich Cybersecurity weiter auszubauen – insbesondere mit dem Ziel, mich in Richtung SOC-Analyst zu entwickeln und bald die CompTIA Security+ Zertifizierung abzuschließen.
+
+Hier dokumentiere ich meine praktischen Projekte, meinen Lernweg und alles, was mich auf diesem Weg weiterbringt.
+
+## Skills
+
+| Skills                                                             
+|------------------------------------------------------------------------------------------------|
+| To do....
+
+## Tools
+to do....
+
+### Network
+
+
+### Endpoint
+
+
+### SIEM
+
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+
+</div>
+
+## Projects
+- 
