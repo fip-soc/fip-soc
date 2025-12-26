@@ -32,10 +32,7 @@ to do....
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-
-</div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d966438d-4285-4057-98a2-84556b7f3428" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
 
 ## Projects
 - 
