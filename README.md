@@ -32,7 +32,7 @@ to do....
 
 
 ## Certifications
-[![Certified in Cybersecurity (CC)](https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/d966438d-4285-4057-98a2-84556b7f3428/public_url)
+[![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/d966438d-4285-4057-98a2-84556b7f3428/public_url)
 
 ## Projects
 - 
